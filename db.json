@@ -1,8 +1,8 @@
 {
   "profiles": [
-    { "id": 1, "name": "ram", "age": 20, "Location": "India"},
-    { "id": 2, "name": "raju", "age": 35, "Location": "India"},
-    { "id": 3, "name": "peter", "age": 67, "Location": "US"},
-    { "id": 4, "name": "sam", "age": 40, "Location": "UK"}
-    ]
+    { "id": 1, "name": "ram", "age": 20, "Location": "India" },
+    { "id": 2, "name": "raju", "age": 35, "Location": "India" },
+    { "id": 3, "name": "peter", "age": 67, "Location": "US" },
+    { "id": 4, "name": "sam", "age": 40, "Location": "UK" }
+  ]
 }
