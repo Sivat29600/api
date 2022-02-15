@@ -1,7 +1,14 @@
-{
-  "profiles": [
-    { "id": 1, "name": "Ram", "age": 20, "Location": "India" },
-    { "id": 2, "name": "Raju", "age": 35, "Location": "India" },
-    { "id": 3, "name": "Peter", "age": 67, "Location": "US" }
-  ]
-}
+[
+    {
+        "id": 1,
+        "Category": "Underweight"
+    },
+    {
+        "id": 2,
+        "Category": "Normal"
+    },
+    {
+        "id": 3,
+        "Category": "Normal"
+    }
+]
